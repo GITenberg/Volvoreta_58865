@@ -1,0 +1,25 @@
+_repo: Volvoreta_58865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fernández-Flórez, Wenceslao
+    aliases:
+    - Flórez, W. F. (Wenceslao Fernández)
+    - Fernandez-Florez, Wenceslao
+    birthdate: 1885
+    deathdate: 1964
+    gutenberg_agent_id: '40980'
+    url: http://www.gutenberg.org/2009/agents/40980
+description: ''
+gutenberg_issued: '2019-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58865'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Volvoreta
+url: http://www.gutenberg.org/ebooks/58865
